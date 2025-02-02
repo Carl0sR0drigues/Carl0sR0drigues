@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
 </div>
 
 ###

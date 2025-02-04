@@ -36,6 +36,9 @@
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
+  
 </div>
 
 ###
